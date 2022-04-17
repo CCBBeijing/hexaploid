@@ -1,6 +1,6 @@
 #data:geno_up2
 #marker SNP-5 does not display significant double reduction, 
-#whereas double reduction is highly significant at markers SNP-130, SNP-406, and SNP-558. Our model provides a unique tool to test double reduction.
+#whereas double reduction is highly significant at markers SNP-130, SNP-406, and SNP-558.
 
 geno_up3 <- list()
 pos      <- NULL
