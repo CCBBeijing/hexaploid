@@ -1,3 +1,7 @@
+#generate a random set of seven hexaploid genotypes containing 29 individuals for 6A, 21 for 5A1a, 17 for 4A2a, 10 for 3A3a, 10 for 2A4a, 10 for 1A5a, and 23 individuals for 6a at a SNP, totalling to N = 120
+#both recursive test and gamete-based test approaches obtain a consistent result for this example.
+#implement the EM algorithm to estimate zygotic frequencies,calculate the chi-square test statistic,suggesting the existence of double reduction in this example.
+
 #blank 1
 rm(list=ls())
 yww <- c( 29/120, 21/120 ,17/120, 10/120 ,10/120, 10/120 ,23/120 )
