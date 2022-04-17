@@ -1,3 +1,5 @@
+#Under alpha not equal to 0, we calculate the likelihood (L1) from equation (5), which corresponds to the alternative hypothesis that there is deviation from aHWE. 
+#Meanwhile, we calculate the likelihood (L0) of the case in which parental genotype frequencies are expressed as equilibrium frequencies, which corresponds to the null hypothesis. 
 
 gamete.exp <- c()
 
