@@ -1,3 +1,7 @@
+#given parental genotype frequency prob0;get offspring ggenotype prob1,
+#the sample size for each genotype was then obtained based on the progeny prob1 probability sampling,
+#genotype probabilities of the parents were obtained based on the number of genotypes per sample for these progeny
+
 #genotype
 #alpha equal to 0
 
